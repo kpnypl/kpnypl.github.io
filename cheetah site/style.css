@@ -1,0 +1,7 @@
+#container1 {background-color:red;height:900px;width:100%;padding-top:40px;background-attachment: fixed;    background-image: url('http://img.turtlehurtled.com/cheetah-subspecies/asiatic-cheetah.jpg');background-size:cover;
+
+}/* the css for container1 uses a background attachment to make the background image */
+#container2 {background-color:rgba(0,0,255,0.2);
+;height:500px;width:100%;}
+#container3 {background-color:green;height:200px;width:100%;}
+#container4 {background-color:grey;height:200px;width:100%;}
